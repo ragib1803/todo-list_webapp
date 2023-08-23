@@ -72,7 +72,7 @@ require 'db_conn.php';
        </div>
     </div>
 
-    <script src="jquery-3.2.1.min.js"></script>
+    <script src="todo.js"></script>
 
     <script>
         $(document).ready(function(){
